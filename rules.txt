@@ -1,0 +1,2 @@
+4;2;4;brand;5;stock;6;cost;7;del;
+
